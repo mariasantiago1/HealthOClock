@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryWhite">#FFFFFF</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPatternApp">#4388CC</color>
+    <color name="colorPatternButton">#59C1E8</color>
+    <color name="colorPatternLight">#FAFAFA</color>
+    <color name="borda_imagem">#BABABA</color>
+    <color name="linha_par">#98FB98</color>
+    <color name="linha_impar">#96FAFA</color>
+</resources>
